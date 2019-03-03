@@ -1,0 +1,97 @@
+	.nav li a{
+		background-color:;
+		color:white;
+		font-style: oblique;
+		font-weight: 900;
+		
+	}
+	.nav{
+		background-color:#540000;
+		
+	}
+	.border{
+		border:2px solid #790000;
+	}
+	.footer{
+		
+
+		 
+	}
+	
+	
+	
+	.glyphicon{
+		
+	}
+	.glyphicon-user{
+		 
+	}
+	.navbar-right{
+		padding-left: ;
+	}
+	.k{<!-- signup -->
+		padding-left: 60px
+	}
+	.g{
+		padding-right: 90px
+	}
+	.jumbotron{
+		background-color:transparent !important;
+		border:3px #c1361b solid ;
+		
+	
+		
+		font-style: oblique;
+		font-weight: 1200;
+	}
+	.jumbotron > h1 {color:#540000 !important;
+	
+	}
+	.jumbotron > img {
+		 position: absolute;
+     right: 300px;
+	 top:15px;
+     width: 190px;
+    
+    padding: 10px;
+		
+	height:170;
+		
+	}
+	.ph > img{
+		 display: block;
+     margin-left: auto;
+    margin-right: auto;
+     width: 75%;
+	}
+	.pph > img{
+		width: 100%;
+		height:relative;
+	}
+	
+	.hi{
+		background:url(theme.jpg);
+			font-style: oblique;
+		font-weight: 900;
+		
+	}
+	.container{
+		
+	}
+	.panel-body{
+		background-color:#fffcfc !important;
+	}
+	.panel-heading{
+		background-color:#540000 !important;
+	}
+	.carousel-inner > .item > img {
+    
+    
+	width: 95%;
+	height:1670;
+	  max-width:2000px;
+      max-height:6700px;
+	  
+	  
+}
+	
