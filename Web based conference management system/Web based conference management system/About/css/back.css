@@ -1,0 +1,89 @@
+.carousel-inner > .item > img {
+    
+    
+	width: 95%;
+	  padding-top: 70px;
+     padding-right: 100px;
+     padding-bottom: 50px;
+     padding-left: 80px;
+	  max-width:2000px;
+      max-height:670px;
+	  position:center;
+	  
+}
+
+
+
+
+#back{
+	
+	position:absolute;
+	width:1500px;
+	height:2800px;
+	z-index:1;
+	margin:0 auto;
+	left: ;
+	right: ;
+	padding: 20px;
+	background-image: url("theme.jpg");
+	top: 50px;
+	
+}
+
+.r > p {
+	color:orange;
+		font-style: oblique;
+		font-weight: 900;
+		border-bottom:2px solid #000000; 
+}
+.r h1{
+	position:centered;
+	color:#540000;;
+}
+.nav li a{
+		background-color:;
+		color:white;
+		font-style: oblique;
+		font-weight: 900;
+		
+	}
+	.nav{
+		background-color:#540000;
+		
+		
+	}
+	.border{
+		-border:2px solid #790000;
+	}
+		​ul#list-nav {
+min-width: 100px;
+margin:1px;
+ 
+}
+
+ul#list-nav li {
+display:inline;
+
+
+}
+
+ul#list-nav li a {
+text-decoration:none;
+padding:px 0;
+width:120px;
+background-color:white;
+color:white;
+float:left;
+text-align:center;
+background-color:#595353;
+border-radius: 150px; 
+
+}
+
+ul#list-nav li a:hover {
+background-color:#353131;
+color:white;
+
+
+
+}

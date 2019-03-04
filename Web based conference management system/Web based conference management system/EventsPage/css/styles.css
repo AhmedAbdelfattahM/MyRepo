@@ -1,0 +1,84 @@
+
+.carousel-inner > .item > img {
+    
+     max-height: 200px;
+   max-width: 300px;
+	
+	}
+	.nav li a{
+		background-color:;
+		color:white;
+		font-style: oblique;
+		font-weight: 900;
+		
+	}
+	.nav{
+		background-color:#540000;
+		
+	}
+	.border{
+		border:2px solid #790000;
+	}
+	
+	
+	
+	.glyphicon{
+		
+	}
+	.glyphicon-user{
+		 
+	}
+	.navbar-right{
+		padding-left: ;
+	}
+	.k{<!-- signup -->
+		padding-left: 60px
+	}
+	.g{
+		padding-right: 90px
+	}
+	.dropdown-menu li a{
+		background-color:#f9f9f9;
+		color:#000058;
+		border: 1px solid #555;
+		text-align: center;
+    border-bottom: 1px solid #555;
+	}
+	
+	
+	.Most{
+		background-color:#f9f9f9;
+		color:gray;
+		border: 
+		
+		text-align: left;
+    border-bottom: 1px solid #000058;
+	font-style: oblique;
+		font-size:120%
+		
+	}
+	.cool{
+		width: 80%;
+	  padding-top: 60px;
+     
+     padding-bottom: 50px;
+     
+	}
+	.guide{
+		border-bottom: 1px solid #000058;
+		background-color:;
+		color:#000058;
+		font-style: oblique;
+		font-weight: 800;
+		
+	}
+	.paragraph{
+		color:;black
+		font-style: oblique;
+		font-weight: 800;
+	}
+	.headers{
+		border-bottom: 2px double #000058;
+		color:#000058;
+		
+	}
